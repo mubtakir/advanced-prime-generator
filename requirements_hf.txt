@@ -1,0 +1,18 @@
+# متطلبات Hugging Face للمشروع
+# Hugging Face Requirements for Advanced Prime Generator
+
+# المكتبات الأساسية - مدمجة في Python
+# Core libraries - built into Python
+# json, math, os, time, unittest
+
+# مكتبات Hugging Face المطلوبة
+# Required Hugging Face libraries
+gradio>=4.0.0
+
+# مكتبات اختيارية للميزات المتقدمة
+# Optional libraries for advanced features
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# ملاحظة: المشروع الأساسي يعمل بدون أي مكتبات خارجية
+# Note: Core project works without any external libraries
