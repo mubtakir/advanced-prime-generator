@@ -1,0 +1,19 @@
+title: Advanced Prime Generator
+emoji: 🔢
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.0.0
+app_file: app.py
+pinned: false
+license: mit
+tags:
+- mathematics
+- prime-numbers
+- algorithms
+- number-theory
+- computational-mathematics
+- arabic
+- research
+- gradio
+short_description: خوارزمية مبتكرة لإيجاد الأعداد الأولية باستخدام جدول ضرب الأعداد الفردية
